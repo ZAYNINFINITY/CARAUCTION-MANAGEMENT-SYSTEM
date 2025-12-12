@@ -1,0 +1,22 @@
+CarAuctionFrontend/
+├── price_prediction.py
+├── api/
+│   └── api.php
+├── config/
+│   ├── .htaccess
+│   ├── db.php
+│   └── test_config.php
+├── css/
+│   └── styles.css
+├── html/
+│   ├── add_car.php
+│   ├── auction_detail.php
+│   ├── auctions.php
+│   ├── index.php
+│   ├── place_bid.php
+│   ├── transaction_form.php
+│   └── transactions.php
+└── sql/
+    ├── database car_auction.sql
+    ├── main.sql
+    └── table data.sql
